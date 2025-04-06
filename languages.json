@@ -1,0 +1,54 @@
+{
+  "zh": {
+    "title": "北境记忆",
+    "flowerBtn": "献给我们永恒的巨人",
+    "langBtn": "切换语言",
+    "flowerSuccessMsg": "总数：",
+    "connectionFail": "连接失败",
+    "cards": [
+      { "title": "寒夜之塔", "desc": "雾中的轮廓，遥望着昔日的荣光，仿佛钟声尚未停息。" },
+      { "title": "铁影之像", "desc": "他们的步伐坚定，穿越时间的风沙，依旧屹立。" },
+      { "title": "轨道遗梦", "desc": "抛向星空的不是金属，而是一个时代不灭的执念。" }
+    ],
+    "footer": "© 1991 北境档案 | ★"
+  },
+  "ru": {
+    "title": "Северные воспоминания",
+    "flowerBtn": "Посвящается нашему вечному гиганту.",
+    "langBtn": "Переключить язык",
+    "flowerSuccessMsg": "Цветы успешно добавлены. Всего: ",
+    "connectionFail": "Ошибка соединения",
+    "cards": [
+      { "title": "Башня в морозе", "desc": "Контуры в тумане смотрят в прошлое, словно колокол ещё не умолк." },
+      { "title": "Тень железа", "desc": "Их шаги сквозь пески времени всё ещё стойки." },
+      { "title": "Орбитальная мечта", "desc": "В небо брошено не железо, а вечная идея эпохи." }
+    ],
+    "footer": "© 1991 Северный архив | ★"
+  },
+  "en": {
+    "title": "Northern Memories",
+    "flowerBtn": "For Our Eternal Giant",
+    "langBtn": "Switch Language",
+    "flowerSuccessMsg": "Total: ",
+    "connectionFail": "Connection Failed",
+    "cards": [
+      { "title": "Tower in the Frost", "desc": "Silhouettes in the mist gaze upon past glory, as if the bells still haven't faded." },
+      { "title": "Iron Shadows", "desc": "Their steps remain steadfast, weathering the sands of time." },
+      { "title": "Orbital Legacy", "desc": "What was cast into the sky wasn't metal, but an era's undying conviction." }
+    ],
+    "footer": "© 1991 Northern Archives | ★"
+  },
+  "de": {
+    "title": "Nördliche Erinnerungen",
+    "flowerBtn": "Für unseren ewigen Riesen",
+    "langBtn": "Sprache wechseln",
+    "flowerSuccessMsg": "Gesamt: ",
+    "connectionFail": "Verbindungsfehler",
+    "cards": [
+      { "title": "Turm im Frost", "desc": "Silhouetten im Nebel blicken auf vergangene Herrlichkeit, als ob die Glocken noch nicht verklungen wären." },
+      { "title": "Eisenschatten", "desc": "Ihre Schritte bleiben standhaft, trotz der Sande der Zeit." },
+      { "title": "Orbitale Träume", "desc": "Was in den Himmel geworfen wurde, war nicht Metall, sondern der unsterbliche Wille einer Ära." }
+    ],
+    "footer": "© 1991 Nordisches Archiv | ★"
+  }
+}
